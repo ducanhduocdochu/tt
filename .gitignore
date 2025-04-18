@@ -1,1 +1,6 @@
 .vscode/
+16-4/vuetodolist/node_modules/
+chatabc/node_modules/
+chatabc-backend/node_modules/
+chatabc-backend/.env
+chatabc/.env
